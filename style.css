@@ -1,0 +1,11 @@
+.custom{
+    background-image: url("download.jpg");
+    background-size: 100%;
+}
+.lead{
+    color: whitesmoke;
+}
+#text{
+    
+    margin-left: 124px;
+}
